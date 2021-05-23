@@ -63,6 +63,7 @@
         .question {
           p {
             color: $color-text-dark;
+            font-weight: 700;
           }
           img {
             transform: rotate(180deg);
@@ -101,7 +102,7 @@
       display: block;
       background: url("../images/illustration-box-desktop.svg") no-repeat;
       background-position: left bottom;
-      bottom: -7rem;
+      top: -7rem;
       left: -7rem;
     }
     .list {
