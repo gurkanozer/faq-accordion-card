@@ -30,7 +30,7 @@
 
   /**LIST START*/
   .list {
-    padding: 6rem 2rem;
+    padding: 3rem 2rem;
     z-index: 2;
     h1 {
       text-align: center;
@@ -82,7 +82,7 @@
   .faq-card {
     background-image: url("../images/bg-pattern-desktop.svg");
     background-repeat: no-repeat;
-    background-position: -30rem -12rem;
+    background-position: -38rem -20rem;
     grid-template-columns: 1fr 1fr;
     /**DESKTOP IMAGE*/
     align-items: center;
@@ -108,7 +108,7 @@
     }
     .list {
       h1 {
-        margin: 0;
+        margin: 2rem 0;
         text-align: left;
       }
       .list-item {
